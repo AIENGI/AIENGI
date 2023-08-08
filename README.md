@@ -10,8 +10,7 @@ UPCOMING(as of now they are not in order, subject to change):
 
 * Chloe Grace Moretz
 
-SUPPORT ME:
-https://www.buymeacoffee.com/AIENGI
+[SUPPORT ME](https://www.buymeacoffee.com/AIENGI)
 
 FINISHED:
 https://civitai.com/user/AIENGI/models
@@ -48,8 +47,7 @@ https://civitai.com/user/AIENGI/models
 
 
 
-SUPPORT ME:
-https://www.buymeacoffee.com/AIENGI
+[SUPPORT ME](https://www.buymeacoffee.com/AIENGI)
 
 
 <!--
