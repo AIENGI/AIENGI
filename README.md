@@ -8,6 +8,12 @@ UPCOMING(as of now they are not in order, subject to change):
 
 * Chloe Grace Moretz
 
+* Hayley Williams
+
+* Addison Rae (probably)
+
+* Sommer Ray (probably)
+
 [SUPPORT ME](https://www.buymeacoffee.com/AIENGI)
 
 FINISHED:
