@@ -1,10 +1,8 @@
 CURRENTLY WORKING:
 
-* Victoria Justice
+* Kendal Jenner
 
 UPCOMING(as of now they are not in order, subject to change):
-
-* Kendal Jenner
 
 * Chloe Grace Moretz
 
@@ -18,6 +16,8 @@ UPCOMING(as of now they are not in order, subject to change):
 
 FINISHED:
 https://civitai.com/user/AIENGI/models
+
+* [Victoria Justice](https://civitai.com/models/124946?modelVersionId=136463)
 
 * [Mia Khalifa](https://civitai.com/models/124912/mia-khalifa-sdxl-lora)
 
