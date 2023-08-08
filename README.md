@@ -1,10 +1,8 @@
 CURRENTLY WORKING:
 
-* Kendal Jenner
+* Chloe Grace Moretz
 
 UPCOMING(as of now they are not in order, subject to change):
-
-* Chloe Grace Moretz
 
 * Hayley Williams
 
@@ -16,6 +14,8 @@ UPCOMING(as of now they are not in order, subject to change):
 
 FINISHED:
 https://civitai.com/user/AIENGI/models
+
+* [Kendall Jenner](https://civitai.com/models/125178/kendall-jenner-sdxl-lora) 
 
 * [Victoria Justice](https://civitai.com/models/124946?modelVersionId=136463)
 
