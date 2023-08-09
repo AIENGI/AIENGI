@@ -1,11 +1,50 @@
-CURRENTLY WORKING: NOT SURE WHO I WANT TO DO. GIVE ME SUGGESTIONS WHILE I SEARCH
+CURRENTLY WORKING: WILL SMITH!
 
 
 
-UPCOMING(as of now they are not in order, subject to change):
+UPCOMING(subject to change ESPECIALLY if someone else uploads a great lora of them first):
+
+* Kristen Bell
+
+* Selena Gomez
+
+* Nicki Minaj
+
+* Miley Cyrus
+
+* Sandra Bullock
+
+* Jennifer Lopez
+
+* Avril Lavigne
+
+* Halle Berry
+
+* Kim Kardashian
+
+* Lady Gaga
+
+* Katy Perry
+
+* Blake Lively
+
+* Rachel Bilson
+
+* Jessica SImpson (probably)
+
+* Lana Del Ray
+
 
 
 * Addison Rae (probably)
+
+* Jessica Alba
+
+* Anna Knedrick
+
+* Julia Roberts
+
+* Samuel L. Jackson
 
 * Sommer Ray (probably)
   
