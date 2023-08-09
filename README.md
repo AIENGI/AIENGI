@@ -1,6 +1,6 @@
-CURRENTLY WORKING:
+CURRENTLY WORKING: BREAK FOR 12-24HRS THEN HAYLEY WILLIAMS(ASSUMING THE DATA SET I HAVE IS GOOD ENOUGH)
 
-* Chloe Grace Moretz
+
 
 UPCOMING(as of now they are not in order, subject to change):
 
@@ -15,7 +15,9 @@ UPCOMING(as of now they are not in order, subject to change):
 FINISHED:
 https://civitai.com/user/AIENGI/models
 
-* [Kendall Jenner](https://civitai.com/models/125178/kendall-jenner-sdxl-lora) 
+* [Chloe Grace Moretz](https://civitai.com/models/125350/chloe-grace-moretz-sdxl-lora)
+
+* [Kendall Jenner](https://civitai.com/models/125178/kendall-jenner-sdxl-lora)
 
 * [Victoria Justice](https://civitai.com/models/124946?modelVersionId=136463)
 
