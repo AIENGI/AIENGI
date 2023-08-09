@@ -1,19 +1,21 @@
-CURRENTLY WORKING: BREAK FOR 12-24HRS THEN HAYLEY WILLIAMS(ASSUMING THE DATA SET I HAVE IS GOOD ENOUGH)
+CURRENTLY WORKING: NOT SURE WHO I WANT TO DO. GIVE ME SUGGESTIONS WHILE I SEARCH
 
 
 
 UPCOMING(as of now they are not in order, subject to change):
 
-* Hayley Williams
 
 * Addison Rae (probably)
 
 * Sommer Ray (probably)
+  
 
 [SUPPORT ME](https://www.buymeacoffee.com/AIENGI)
 
 FINISHED:
 https://civitai.com/user/AIENGI/models
+
+* [Hayley Williams](https://civitai.com/models/125549/hayley-williams-sdxl-lora)
 
 * [Chloe Grace Moretz](https://civitai.com/models/125350/chloe-grace-moretz-sdxl-lora)
 
