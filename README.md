@@ -1,4 +1,4 @@
-CURRENTLY WORKING: Kristen Bell
+CURRENTLY WORKING: REDOING ARIANA TO UNDO OVERTRAINING (IM STUPID AND DELETED THE OLD SAFETENSOR FILES. THIS WONT HAPPEN FOR FUTURE MODELS AS I WILL BE STORING ALL OF THEM THAT I CAN (AROUND 10TB OF STORAGE AVAILABLE ON MY MACHINE)
 
 
 
@@ -51,6 +51,8 @@ FINISHED:
 https://civitai.com/user/AIENGI/models
 
 * [Hayley Williams](https://civitai.com/models/125549/hayley-williams-sdxl-lora)
+
+* [KristenBell]()
 
 * [WillSmith](https://civitai.com/models/125942/will-smith-sdxl-lora)
 
