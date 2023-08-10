@@ -52,9 +52,9 @@ https://civitai.com/user/AIENGI/models
 
 * [Hayley Williams](https://civitai.com/models/125549/hayley-williams-sdxl-lora)
 
-* [KristenBell](https://civitai.com/models/126111/kristen-bell-sdxl-lora)
+* [Kristen Bell](https://civitai.com/models/126111/kristen-bell-sdxl-lora)
 
-* [WillSmith](https://civitai.com/models/125942/will-smith-sdxl-lora)
+* [Will Smith](https://civitai.com/models/125942/will-smith-sdxl-lora)
 
 * [Chloe Grace Moretz](https://civitai.com/models/125350/chloe-grace-moretz-sdxl-lora)
 
