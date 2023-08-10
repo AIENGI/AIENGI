@@ -1,10 +1,8 @@
-CURRENTLY WORKING: WILL SMITH!
+CURRENTLY WORKING: Kristen Bell
 
 
 
 UPCOMING(subject to change ESPECIALLY if someone else uploads a great lora of them first):
-
-* Kristen Bell
 
 * Selena Gomez
 
@@ -34,8 +32,6 @@ UPCOMING(subject to change ESPECIALLY if someone else uploads a great lora of th
 
 * Lana Del Ray
 
-
-
 * Addison Rae (probably)
 
 * Jessica Alba
@@ -55,6 +51,8 @@ FINISHED:
 https://civitai.com/user/AIENGI/models
 
 * [Hayley Williams](https://civitai.com/models/125549/hayley-williams-sdxl-lora)
+
+* [WillSmith](https://civitai.com/models/125942/will-smith-sdxl-lora)
 
 * [Chloe Grace Moretz](https://civitai.com/models/125350/chloe-grace-moretz-sdxl-lora)
 
