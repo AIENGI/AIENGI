@@ -1,12 +1,8 @@
-CURRENTLY WORKING: REDOING ARIANA TO UNDO OVERTRAINING (IM STUPID AND DELETED THE OLD SAFETENSOR FILES. THIS WONT HAPPEN FOR FUTURE MODELS AS I WILL BE STORING ALL OF THEM THAT I CAN (AROUND 10TB OF STORAGE AVAILABLE ON MY MACHINE)
+CURRENTLY WORKING: Nicki Minaj
 
 
 
 UPCOMING(subject to change ESPECIALLY if someone else uploads a great lora of them first):
-
-* Selena Gomez
-
-* Nicki Minaj
 
 * Miley Cyrus
 
@@ -49,6 +45,8 @@ UPCOMING(subject to change ESPECIALLY if someone else uploads a great lora of th
 
 FINISHED:
 https://civitai.com/user/AIENGI/models
+
+* [Selena Gomez](https://civitai.com/models/126478/selena-gomez-sdxl-lora)
 
 * [Hayley Williams](https://civitai.com/models/125549/hayley-williams-sdxl-lora)
 
