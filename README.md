@@ -1,6 +1,6 @@
 UPCOMING(subject to change ESPECIALLY if someone else uploads a great lora of them first):
 
--SUPPORT ME BELOW TO SUGGEST MODELS-
+----SUPPORT ME BELOW TO SUGGEST MODELS----
 
 -ALEX BOTEZ (CURRENTLY TRAINING)
 
