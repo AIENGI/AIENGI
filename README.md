@@ -1,97 +1,24 @@
-CURRENTLY WORKING: SORRY GOT ADDICTED TO OSRS AGAIN AND TOO LAZY TO TRAIN AT THE SAME TIME. WILL UPDATE HERE WHEN I RESUME TRAINING. THANKS FOR THE LOVE
-
-
 UPCOMING(subject to change ESPECIALLY if someone else uploads a great lora of them first):
 
-* Miley Cyrus
+-SUPPORT ME BELOW TO SUGGEST MODELS-
 
-* Sandra Bullock
+-ALEX BOTEZ (CURRENTLY TRAINING)
+THEN FIXING SOME OF MY OLDER MODELS WITH NEW TRAINING METHOD AND MUCH BETTER CAPTIONS.
+OLDER MODELS TO FIX:
+-HAILEY ROSE
+-ALINITY
+-OLIVIA RODRIGO
+-SSSNIPERWOLF(IF PEOPLE WANT)
+-39DAPH (NOT SURE THIS ONE WAS PRETTY GOOD BUT WAS OLD TRAINING METHOD)
+-VALKYRAE (IF PEOPLE WANT)
 
-* Jennifer Lopez
-
-* Avril Lavigne
-
-* Halle Berry
-
-* Kim Kardashian
-
-* Lady Gaga
-
-* Katy Perry
-
-* Blake Lively
-
-* Rachel Bilson
-
-* Jessica SImpson (probably)
-
-* Lana Del Ray
-
-* Addison Rae (probably)
-
-* Jessica Alba
-
-* Anna Knedrick
-
-* Julia Roberts
-
-* Samuel L. Jackson
-
-* Sommer Ray (probably)
+-THEN I WILL MOVE ONTO NEW MODELS. SUPPORT ME BELOW TO SUGGEST MODELS-
   
 
 [SUPPORT ME](https://www.buymeacoffee.com/AIENGI)
 
 FINISHED:
 https://civitai.com/user/AIENGI/models
-
-* [Selena Gomez](https://civitai.com/models/126478/selena-gomez-sdxl-lora)
-
-* [Hayley Williams](https://civitai.com/models/125549/hayley-williams-sdxl-lora)
-
-* [Kristen Bell](https://civitai.com/models/126111/kristen-bell-sdxl-lora)
-
-* [Will Smith](https://civitai.com/models/125942/will-smith-sdxl-lora)
-
-* [Chloe Grace Moretz](https://civitai.com/models/125350/chloe-grace-moretz-sdxl-lora)
-
-* [Kendall Jenner](https://civitai.com/models/125178/kendall-jenner-sdxl-lora)
-
-* [Victoria Justice](https://civitai.com/models/124946?modelVersionId=136463)
-
-* [Mia Khalifa](https://civitai.com/models/124912/mia-khalifa-sdxl-lora)
-
-* [Cardi B](https://civitai.com/models/124763/cardi-b-sdxl-lora)
-
-* [Olivia Rodrigo](https://civitai.com/models/124742/olivia-rodrigo-sdxl-lora)
-
-* [Liv Tyler](https://civitai.com/models/124363/liv-tyler-sdxl-lora)
-
-* [Mia Malkova](https://civitai.com/models/123687/mia-malkova-sdxl-lora)
-
-* [Millie Bobby Brown](https://civitai.com/models/123650/millie-bobby-brown-sdxl-lora)
-
-* [Natalie Dormer](https://civitai.com/models/123033/natalie-dormer-sdxl-lora)
-
-* [Kiera Knightly](https://civitai.com/models/123103/kiera-knightly-sdxl-lora)
-
-* [Megan Fox](https://civitai.com/models/122432/megan-fox-sdxl-lora)
-
-* [Dakota Tyler](https://civitai.com/models/122316/dakota-tyler-sdxl-lora)
-
-* [Rhianna](https://civitai.com/models/121777/rhianna-sdxl-lora)
-
-* [Ariana Grande](https://civitai.com/models/121801/ariana-grande-sdxl-lora)
-
-* [xQc (goblin)](https://civitai.com/models/121661/xqc-sdxl-lora)
-
-* [Pokimane](https://civitai.com/models/121567/pokimane-sdxl-lora)
-
-* [Jennifer Lawrence](https://civitai.com/models/120160/jennifer-lawrence-sdxl-lora)
-
-* [Andrea Botez](https://civitai.com/models/121018/andrea-botez-sdxl-lora)
-
-
 
 [SUPPORT ME](https://www.buymeacoffee.com/AIENGI)
 
